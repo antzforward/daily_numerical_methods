@@ -10,3 +10,12 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+
+*/target
+*.pdb
+*.exe
+*.rlib
+*.obj
+*.ilk
+*.asm
+
