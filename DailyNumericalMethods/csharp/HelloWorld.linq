@@ -13,3 +13,7 @@ void PrintMessage(string message)
 
 // 调用函数
 PrintMessage("This is a single-file C# program.");
+
+int a = 10000;
+int b = (a >> 3) + (a < 9 ? 3 : 6);
+Console.WriteLine($"{a} :{b}");
