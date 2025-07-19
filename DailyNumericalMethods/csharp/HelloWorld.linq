@@ -1,4 +1,7 @@
-<Query Kind="Statements" />
+<Query Kind="Statements">
+  <NuGetReference>SkiaSharp</NuGetReference>
+  <NuGetReference>System.Runtime.Numerics</NuGetReference>
+</Query>
 
 // Program.cs
 using System;
